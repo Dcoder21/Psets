@@ -1,2 +1,4 @@
-name = input('What is your name buddy? ')
-print ('Hello, Nathan Ojeabulu', name, sep="!!!" )
+name = input('Make a shoutout to cs50 ')
+name = name.upper()
+
+print (name )
